@@ -1,0 +1,17 @@
+# Core dependencies for Personal To-Do List Assistant
+
+# For desktop notifications (Windows)
+plyer>=2.1.0
+win10toast>=0.9
+
+# For building executable
+pyinstaller>=5.0
+
+# Standard libraries used (no pip install needed):
+# - tkinter (built into Python)
+# - json (built into Python) 
+# - datetime (built into Python)
+# - threading (built into Python)
+# - uuid (built into Python)
+# - os (built into Python)
+# - typing (built into Python)

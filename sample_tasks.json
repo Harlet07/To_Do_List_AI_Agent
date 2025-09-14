@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sample-task-1",
+    "description": "Complete project documentation",
+    "due_date": "2025-09-15T14:00:00",
+    "priority": "High",
+    "completed": false,
+    "created_at": "2025-09-14T13:00:00",
+    "completed_at": null
+  },
+  {
+    "id": "sample-task-2", 
+    "description": "Review code and submit PR",
+    "due_date": "2025-09-16T10:30:00",
+    "priority": "Medium",
+    "completed": false,
+    "created_at": "2025-09-14T13:05:00",
+    "completed_at": null
+  },
+  {
+    "id": "sample-task-3",
+    "description": "Buy groceries for the week",
+    "due_date": null,
+    "priority": "Low", 
+    "completed": true,
+    "created_at": "2025-09-13T09:00:00",
+    "completed_at": "2025-09-14T11:30:00"
+  }
+]
